@@ -1,0 +1,36 @@
+body { 
+background-color:#BDA6A6;
+color: black;
+} 
+
+.photo {
+  width: 260px; 
+  height: auto;
+}
+
+.home_text {
+  display: flex;
+}
+
+.home_text p {
+	font-size: 30px;
+}
+
+.photo {
+    float: left;
+    margin-right: 40px;
+    width: 200px;
+}
+
+* {
+	font-family: Arial, sans-serif; 
+}
+
+/* Animated background gradient + default text color*/ 
+body { 
+	background: color black; 
+    color: #FFFFFF; 
+	margin: 0; 
+	padding: 0;
+} 
+
